@@ -71,12 +71,13 @@ mvn clean compile package
 ### How to Run ?
 
 ```
+cd target
 java -cp druid-disk-calc-1.0-SNAPSHOT.jar:. -jar druid-disk-calc-1.0-SNAPSHOT.jar \<number of Druid Rows\> \<number of metric dimensions\> \<absolute path to column details file\>
 ```
 
 ### Formulas
 
-refer to Formulas.java for the logic behind the sizing of each of the above data structures.
+refer to Formulae.java for the logic behind the sizing of each of the above data structures.
 
 
 ### Is it accurate ?

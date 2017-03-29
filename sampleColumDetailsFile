@@ -1,0 +1,5 @@
+#format is
+#ColumnName,cardinality,avg column value size in bytes
+gender,2,1
+passportNum,100000,7
+name,100000,100
