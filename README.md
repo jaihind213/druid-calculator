@@ -85,8 +85,8 @@ refer to Formulae.java for the logic behind the sizing of each of the above data
 This is an approximation based on my understanding of concise bitmaps and druid docs and attempts
 to give u a worst case scenario approximation.
 
-So far from the tests i have run, the numbers are not too far off, but feedback is welcome. :)
+So far from the tests i have run, the numbers are not too far off, but feedback is welcome.  :raised_hands:  :mailbox:  :smile:
 
-Note: Not too sure about the formula i used for metric column size determination.
+Note: Not too sure about the formula i used for metric column size determination  :confused:.
 
 
