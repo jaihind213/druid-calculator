@@ -89,4 +89,4 @@ So far from the tests i have run, the numbers are not too far off, but feedback 
 
 Note: Not too sure about the formula i used for metric column size determination  :confused:.
 
-
+Hope you find it useful and thank you.
