@@ -1,7 +1,7 @@
 # Druid Calculator
 This calculator gives you an estimation of disk space used by a segment of a (http://druid.io/) datasource on the historical nodes.
 
-Important Note: This calculator determines the size of segment assuming concise bitmaps are used.
+ :umbrella: ***Important Note:*** : This calculator determines the size of segment assuming concise bitmaps are used.
 
 #### Concepts to keep in mind
 
